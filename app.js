@@ -1,5 +1,5 @@
 // Your OpenWeatherMap API key
-const apiKey = '*************************';
+const apiKey = '1b73ed5a14e3509b5baff130526620d1';
 
 // Cities to fetch weather for
 const cities = ['Sausar', 'Pandhurna', 'Chhindwara', 'Nagpur', 'Bengaluru', 'Indore', 'Pune'];
